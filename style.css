@@ -1,0 +1,67 @@
+body {
+   background-color: #EEE8AA;
+   color: #808000;
+ }
+
+ h1 {
+ 	font-family: 'Bebas Neue';
+ 	font-size: 32px;
+ 	font-weight: 900;
+ 	color: #556B2F;
+ 	}
+
+ h2 {
+ 	font-family: 'Bebas Neue';
+ 	font-size: 20px;
+ 	font-weight: 500;
+ 	color: #556B2F;
+ 	}
+
+ p {
+ 	font-family: 'Bebas Neue', ;
+ 	color: #BDB76B;
+ 	}
+
+ div {
+ 	background-color: #FAFAD2;
+ 	padding: 40px;
+ 	border-radius: 5px;
+ 	box-shadow: 0px 10px 30px #886F6F;
+ 	text-align: center;
+ 	width: 600px;
+ 	margin: 40px auto;
+ 	}
+
+ 	img {
+ 		border-radius: 50%;
+ 		width: 100px;
+ 		}
+
+ 	.card-white a{
+ 		background-color: #8FBC8B;
+ 		color: #8FBC8B;
+ 		font-weight: bold;
+ 		border-radius: 4px;
+ 		padding: 15px 20px;
+ 		text-decoration: none;
+ 		}
+
+ 	.card-white a:hover{
+ 		background-color: #8FBC8B;
+ 		color: #8FBC8B;
+ 		}
+
+ 	ul {
+ 		list-style: none;
+ 		padding-left: 0px;
+ 		}
+
+ 	li {
+ 		display: inline;
+ 		padding: 10px;
+ 		}
+
+ 	i {
+ 		font-size: 40px;
+ 		}
+ 
